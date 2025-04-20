@@ -1,5 +1,4 @@
-Trabalho de Engenharia de software 1 
-O trabalho consiste em : 
+Trabalho de Engenharia de software 1 consiste em : 
 * Modelagem OO de um estudo de caso
 * implementação back-end/front-end Endereço
 * Implementação Estudo caso OO (Cadastro Paciente)
